@@ -15,7 +15,7 @@ for (i = 0; i < length; ++i)
 {
 rev[i] = s[j];
 j--;
-_putchar(rev[i]);
+putchar(rev[i]);
 }
 _putchar('\n');
 }
