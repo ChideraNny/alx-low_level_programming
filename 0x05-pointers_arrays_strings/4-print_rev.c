@@ -17,5 +17,5 @@ rev[i] = s[j];
 j--;
 putchar(rev[i]);
 }
-_putchar('\n');
+putchar('\n');
 }
